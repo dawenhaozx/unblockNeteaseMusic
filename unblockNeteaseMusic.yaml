@@ -71,8 +71,8 @@ proxies:
 #  http
   - name: 🎵 解锁节点
     type: http
-    server: 173.82.7.63
-    port: 8033
+    server: 3330333.xyz
+    port: 52033
 
 proxy-groups:
   - name: UnblockNeteaseMusic
